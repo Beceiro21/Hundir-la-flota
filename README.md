@@ -1,8 +1,8 @@
-# Hundir-la-flota
+# Hundir-la-flota :video_game:
 
 
 
-## Introducción
+## Introducción 
 En este ejercicio vas a crear tu propio juego de **Hundir la flota** en Python :snake: . Para el desarrollo del programa necesitarás conocimientos de la librería `numpy`, módulos, bucles, funciones y colecciones de Python. Se recomienda desarrollar el programa en un IDE como Pycharm, Visual Studio Code o Spyder. **Por lo que la entrega deberá constar de uno o varios scripts de Python (archivos .py), los que necesite el alumno**.
 
 ## ¿Cómo funciona el juego?
