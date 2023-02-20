@@ -1,14 +1,15 @@
-# Hundir-la-flota :video_game:
+# Hundir-la-flota 🌊
 
 
-
-## Introducción 
+## Introducción 📝
 En este ejercicio vas a crear tu propio juego de **Hundir la flota** en Python :snake: . Para el desarrollo del programa necesitarás conocimientos de la librería `numpy`, módulos, bucles, funciones y colecciones de Python. Se recomienda desarrollar el programa en un IDE como Pycharm, Visual Studio Code o Spyder. **Por lo que la entrega deberá constar de uno o varios scripts de Python (archivos .py), los que necesite el alumno**.
 
-## ¿Cómo funciona el juego?
+## ¿Cómo funciona el juego? :video_game: 
+
 Vamos a realizar una versión que tiene algunas particularidades respecto al juego original, de manera que sea más sencillo el desarrollo. Veamos cómo funciona:
 
-1. Hay dos jugadores: la máquina y tú
+1. Hay dos jugadores: la máquina y tú :computer: :smile:
+
 2. Un **tablero de 10 x 10** posiciones donde irán los barcos.
 3. Lo primero que se hace es colocar los barcos. Para este juego **los barcos se colocan de manera aleatoria. Ahora bien, puedes empezar colocando los barcos en unas posiciones fijas, que no cambien con cada partida, y después implementarlo aleatoriamente, ya que es más complejo. Los barcos son:**
     * 4 barcos de 1 posición de eslora
@@ -21,3 +22,8 @@ Vamos a realizar una versión que tiene algunas particularidades respecto al jue
 6. En cada turno disparas a una coordenada (X, Y) del tablero adversario. **Si aciertas, te vuelve a tocar**. En caso contrario, le toca a la máquina.
 7. En los turnos de la máquina, si acierta, también le vuelve a tocar. ¿Dónde dispara la máquina? A un punto aleatorio en tu tablero.
 8. Si se hunden todos los barcos de un jugador, el juego acaba y gana el otro.
+
+## Autores 	:black_nib:
+
+Alberto 
+Fernando Martínez
